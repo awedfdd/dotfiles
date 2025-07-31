@@ -1,0 +1,14 @@
+[user]
+	name = Oleksandr Havrylutsa
+	email = oleksandr.havrylutsa@gmail.com
+[init]
+	defaultBranch = master
+[submodule]
+	recurse = true
+[push]
+	autoSetupRemote = true
+	default = current
+[pull]
+  rebase = false
+[branch]
+	autoSetupMerge = simple
