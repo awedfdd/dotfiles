@@ -1,0 +1,10 @@
+[user]
+	name = Oleksandr Havrylutsa
+	email = oleksandr.havrylutsa@gmail.com
+[push]
+	autoSetupRemote = true
+	default = current
+[pull]
+	rebase = true
+[advice]
+	defaultBranchName = false
